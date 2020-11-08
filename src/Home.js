@@ -23,7 +23,7 @@ function Home() {
             </div>
             <div className="home__row">
                 <Product id="1000005" title="IFB Washing Machine" image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHoq01y4lW4RDWVntWdSLmYcL6E63cTCul6OTmM1w4vrVuMrOfPQVdslBBJdYmfkuZ5aG6bVY&usqp=CAc"
-                price="19999" rating={4}/>
+                price={19999} rating={4}/>
             </div>
         </div>
     )
